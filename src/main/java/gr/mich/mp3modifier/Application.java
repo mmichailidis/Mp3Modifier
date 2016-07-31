@@ -87,7 +87,7 @@ public class Application {
             }
         }        
         
-        String[] str = title.split("[.]");//remove the extension
+        String[] str = title.split("[.]");//remove the extension 
         title = str[0].trim();
         
         String tmpStr = title; //efficiently final for lambda
