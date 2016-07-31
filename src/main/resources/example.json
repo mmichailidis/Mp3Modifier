@@ -7,6 +7,10 @@
         "Halestorm",
         "Lyrics"
     ],
+    "isTitleToTheRight":true,
+    "delim": [
+      "-"  
+    ],
     "files": [
         {
             "imagePath": "C:/1bz1AkL.jpg",

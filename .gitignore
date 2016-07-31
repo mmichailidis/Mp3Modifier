@@ -1,0 +1,3 @@
+/target/
+*.json
+!src/main/resources/*.json
